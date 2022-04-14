@@ -1,0 +1,2 @@
+Segments may have one common point
+X = -0.0471731 Y = 0.0283039 Z = 0
